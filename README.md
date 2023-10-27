@@ -2,7 +2,7 @@
 ### THIS IS A CLONE WEBSITE OF PLAYSTATION.COM
 <hr>
 This is one of the Best Projects, I made. <br>
-To create this project I used: HTML and CSS. <be>
+Components - HTML | CSS. <br>
 
 **Preview**
 ![Preview](https://github.com/Ninja-Vikash/Assets/blob/main/Playstation%20Assets/PlayStation-Clone.png) <br>
